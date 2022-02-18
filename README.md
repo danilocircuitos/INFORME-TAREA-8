@@ -242,3 +242,165 @@ potencia aparente.
 
 ![image](https://user-images.githubusercontent.com/93210648/154719353-6f48393a-8870-4aa3-bb1b-31c475a8385a.png)
 
+![image](https://user-images.githubusercontent.com/93210648/154721045-2ed53ddb-2cf7-45b0-a213-9d5ea0632c41.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154721132-347edfa8-7912-42c1-9e26-3ad0191aa25f.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154721162-db07f84f-4beb-4b3e-9673-d821398408b2.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154721179-be12a3dd-a03a-4ad5-9596-1f73714d56ed.png)
+
+61. Una sola fuente de 240 V y 60 Hz alimenta dos cargas. La carga A tiene impedancia de 50 Ω  y factor de potencia de 0.85. La carga B tiene impedancia de 72 Ω  y factor de potencia de 0.95.
+
+(a) ¿Cuánta corriente consume cada carga?
+
+(b) ¿Cuál es la potencia reactiva en cada carga?
+
+(c) ¿Cuál es la potencia real en cada carga?
+
+(d) ¿Cuál es la potencia aparente en cada carga?
+
+(e) ¿Cuál carga tiene más caída de voltaje a lo largo de las líneas que la conectan a la fuente?
+
+![image](https://user-images.githubusercontent.com/93210648/154722217-1d3b4a52-3e1c-447e-8eb5-7c990ef9880e.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154722241-3783ebb6-2b12-4735-a39a-e60595308b23.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154722662-48959ab6-59cb-4ded-be4d-725fd8dd1d87.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154722712-ed0b096b-26f4-416a-87de-d4b228be12cd.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154722736-82a700a6-1d81-4bac-8ccf-25f4eb140fd3.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154722799-cc4834fd-eeee-499d-b792-208491191232.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154722818-abb4ea0b-e1a3-4c15-872e-fd1117e347fa.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154722850-336bc495-e361-464c-a25d-7782cf01b7da.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154722873-7e6bf76d-36d5-4f4c-ada3-3e18a9b1570a.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154722905-3f2dfa88-befb-4ed3-b017-0b13ea9fa334.png)
+
+63. ¿Qué valor de capacitor de acoplamiento se requiere en la figura 15-104 de modo que el voltaje de señal a la entrada del amplificador 2 sea por lo menos un 70.7% del voltaje de señal a la salida del amplificador 1 cuando la frecuencia es de 20 Hz?
+
+![image](https://user-images.githubusercontent.com/93210648/154723077-6cf0ca35-08b3-4a2f-8fa4-856406d3cc96.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154723184-95cd6ac6-ceff-435e-bec8-1334cd12c2cd.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154723228-7c31ff2c-01c7-4aa0-8921-c45925cf5a9c.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154723265-a7f5b610-9ca8-49ae-827e-d4e094e1c643.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154723290-9245ea8d-e113-4895-a109-8d4c499297f7.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154723309-edc98d6a-28b1-498c-a41f-8fd210bd3994.png)
+
+65. Suponga que el capacitor de la figura 15-106 tiene fugas en exceso. Muestre cómo afecta esta degradación al voltaje de salida y al ángulo de fase, suponiendo que la resistencia de fuga es de 5 kÆ y la frecuencia de 10 Hz.
+
+![image](https://user-images.githubusercontent.com/93210648/154723426-49d88b64-0d94-4a7d-9a4a-71fc845c6df2.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154723547-20153072-7f68-4634-8766-fbafc8a81701.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154723591-328cf36f-8517-4069-813f-92e83da1a884.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154723620-698b1b4e-74fc-4499-8804-c55338a37579.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154723662-2246442a-5df9-4ebf-a82a-c0a478eb5582.png)
+
+67. Determine el voltaje de salida para el circuito de la figura 15-107(a) para cada uno de los siguientes modos de falla, y compárelo con la salida correcta:
+
+![image](https://user-images.githubusercontent.com/93210648/154723890-65c84394-c64c-4586-b80e-21957f16e944.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154724166-ebf491e0-b0be-4ca7-ab2d-b1cec3d1e5e1.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154724199-f68f3142-2824-4660-8a17-3512c1a470b0.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154724220-bd341327-bec9-4e35-8e72-1aa376d93995.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154724270-0ef5a6d5-08c2-44e5-8915-9bc4149bcf2e.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154724287-9fa721b6-7f2f-420d-8ac9-a6df2a162f56.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154724323-cf522ef0-7aca-4dd5-96c2-91498411dcfe.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154724342-f8415bf3-2e14-493d-9d34-d44752a613bc.png)
+
+CAPITULO 16:
+
+PARTE 1: CIRCUITOS EN SERIE
+
+SECCIÓN 16–1 Respuesta sinusoidal de circuitos RL en serie
+
+1. Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es la frecuencia de I, VR y VL?
+
+![image](https://user-images.githubusercontent.com/93210648/154724738-5da5e196-0c57-4aa6-b757-86903e8a40d9.png)
+
+SECCIÓN 16–2 Impedancia de circuitos RL en serie
+
+3. Exprese la impedancia total de cada circuito de la figura 16-54 tanto en forma polar como rectangular
+
+![image](https://user-images.githubusercontent.com/93210648/154724854-5d11b156-4143-44bc-b650-f1672cf5fdc1.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154724937-5b8b0167-d335-44b5-9542-03aa3c2a4b42.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154724961-8123e1da-ae65-4b8b-aca6-ab5cfe8310de.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154724981-b434c71a-cd5e-4ce7-bdf7-9fd8812b46cd.png)
+
+5. En la figura 16-56, determine la impedancia para cada una de las siguientes frecuencias:
+
+(a) 100 Hz (b) 500 Hz (c) 1 kHz (d) 2 kHz
+
+![image](https://user-images.githubusercontent.com/93210648/154725083-c30c6690-c2cd-4775-8262-036993cc974a.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154725129-d42c524e-5c65-4420-af7b-4da8dd7c2ef1.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154725160-0d94e7c8-ccc0-4e47-a362-72b22c432215.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154725182-78062b07-1195-428a-ae76-4d9825e817a4.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154725205-7ce4e521-0153-40fb-8ad0-3c372b2dfea0.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154725227-52bcc770-8c2f-47bb-850c-f0449c32455c.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154725256-95e44b65-f96b-4c03-b6e4-5465d6c5fca0.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154725277-6e808fb5-3fc4-438a-9583-c4ba0f8016e1.png)
+
+7. Reduzca el circuito de la figura 16-57 a una sola resistencia e inductancia en serie.
+
+![image](https://user-images.githubusercontent.com/93210648/154725338-09630873-ff80-4681-9e1a-e2cb69794d32.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154725424-53c558b1-2c09-447b-9289-56b4b63cb21a.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154725451-36f952a9-b346-4093-b473-3e876701e1d7.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154725476-619f6ccf-b167-4360-ab22-609780009163.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154725495-187a7a82-7512-42a0-b057-69132f1ffcf2.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154725521-49d4a7d2-0e45-4714-838c-618941d00b61.png)
+
+SECCIÓN 16–3 Análisis de circuitos RL en serie
+
+9. Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de la figura 16-57.
+
+![image](https://user-images.githubusercontent.com/93210648/154725682-c22c4a65-a409-49f7-bec4-30c15b2fb742.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154725711-03307705-c42c-44d2-aaf6-39ca02c45c63.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154725731-f0022a1d-b41e-4cbd-a51f-bda745ea023a.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154725759-973a9c3e-3903-4ade-9969-a83884c15058.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154725785-3d8a7797-0581-4846-a4cc-db007eee42d8.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154725808-56c33ef1-1963-4e3a-b68f-112cb8739a69.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154725838-3e72145c-7644-41be-8fe9-54c2e62fbb6b.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154725855-074b7a5b-d400-4a9c-8ae2-0d619aa65b83.png)
+
+
+
