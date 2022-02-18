@@ -2,6 +2,162 @@
 
 INFORME DE LA TAREA 1 CORRESPONDIENTE A LA 3 UNIDAD
 
+Universidad de las Fuerzas Armadas "ESPE"
+
+Fundamentos de Circuitos Electricos
+
+Informe Tarea Nº8
+
+Integrantes: Allauca Steven, Lucero Danilo, Manosalvas Gabriel
+
+Carrera: Ing. en Electrónica y Automatización
+
+NRC: 10133
+
+Docente: Ing. Darwin Alulema
+
+Tema: Cap 15 y 16
+
+1.Objetivos:
+
+General:
+
+• Resolver los ejercicios de los capítulos 15 y 16 aplicando los conocimientos adquiridos referente a los Fundamentos de ca y Elementos R, L y C y el concepto de impedancia.
+
+Especificos:
+
+• Definir y calcular las diferencias de fase entre formas de onda cuadrada, triangular, rectangular y sinusoidal.
+
+• Calcular valores promedio y valores efectivos para formas de onda que varían en el tiempo.
+
+• Identificar las diferencias de voltaje y corriente de circuitos con corriente directa (cd) y corriente alterna (cd).
+
+• Expresar números complejos en formas rectangular y polar y con esto poder representar fasores de voltaje y corriente.
+
+• Representar las fuentes de corriente alterna en forma transformada para poder realizar operaciones de sumar y restar corrientes y voltajes mediante fasores
+
+• Entender el concepto de Impedancia para poder determinarla en elementos de circuito R, L Y C.
+
+• Determinar los voltajes y corrientes en circuitos de corriente alterna mediante el concepto de impedancia.
+
+2. Marco Teorico:
+
+Capítulo 15
+
+![image](https://user-images.githubusercontent.com/93210648/154726069-95b3b511-2e13-4cae-8c64-b0b8a082a692.png)
+
+Capítulo 16
+
+![image](https://user-images.githubusercontent.com/93210648/154726147-096175d8-2691-4c7d-8cfd-4bcc7951d65f.png)
+
+3. Explicación y Resolución de ejercicios o problemas:
+
+Ejercicios Capítulo 15
+
+1.- ¿Cuáles son las dos características de una cantidad indicada mediante un número complejo?
+Con=Ϲ<θ
+
+Magnitud, longitud
+
+2.- Localice los puntos representados por cada una de las siguientes coordenadas en el plano complejo:
+A) 3, j5 B) -7, j1 C) - 10,- j10
+
+![image](https://user-images.githubusercontent.com/93210648/154726263-ff4897ae-c382-445a-9037-eff67a4c746f.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154726283-7f16f3d9-735e-4127-901e-2472f0a5bd67.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154726314-51e8fb49-c61c-4de5-87b9-2ec4c74021fe.png)
+
+5.- Determine las coordenadas de cada punto que tenga igual magnitud, pero esté localizado a 90° de los puntos del problema 3.
+
+![image](https://user-images.githubusercontent.com/93210648/154726371-745ef717-3554-4c49-9b72-75537d7f3461.png)
+
+7.- ¿Cuál es el valor de la hipotenusa de un triángulo rectángulo cuyos lados son 10 y 15?
+
+![image](https://user-images.githubusercontent.com/93210648/154726438-93204412-873a-4866-b950-882d81319806.png)
+
+9 Convierta cada uno de los siguientes números polares a forma rectangular:
+
+(a) 1000 ∠ - 50°
+
+(b) 15 ∠ 160°
+
+(c) 25 ∠ - 135°
+
+(d) 3 ∠ 180°
+
+Con=Ϲ<θ
+
+Con=Ϲ(θ)+j c Sen θ
+
+![image](https://user-images.githubusercontent.com/93210648/154726525-5d64e915-89b7-4113-bb20-6da9e5a8fa74.png)
+
+11 Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 8.
+
+![image](https://user-images.githubusercontent.com/93210648/154726583-bf69c175-3602-48c5-b7a5-8aa5c4251ea0.png)
+
+13 Escriba las expresiones polares utilizando ángulos positivos para cada uno de los fasores de la figura 15-83.
+
+![image](https://user-images.githubusercontent.com/93210648/154726686-ca28982d-3441-4bfc-8ba0-63ed30f85a53.png)
+
+15 Realice las siguientes sustracciones:
+
+![image](https://user-images.githubusercontent.com/93210648/154726731-96d15a06-9db1-4879-a01b-8d9419e60f1e.png)
+
+17 Realice las siguientes divisiones:
+
+![image](https://user-images.githubusercontent.com/93210648/154726772-2e8370f5-9d2c-4e84-89ee-234c40f069cb.png)
+
+19 Se aplica un voltaje sinusoidal a 8 kHz a un circuito RC en serie. ¿Cuál es la frecuencia del voltaje a través del resistor? ¿A través del capacitor?
+
+Si se aplica un voltaje sinusoidal de 8 KHz a una serie RC circuito, la frecuencia del voltaje a través de ambos elementos es la misma que la frecuencia de la fuente. Eso significa que la frecuencia del voltaje en la resistencia es de 8KHz y la frecuencia del voltaje en el capacitor también es de 8 kHz.
+
+21 Exprese la impedancia total de cada circuito mostrado en la figura 15-84 tanto en forma polar como rectangular.
+
+![image](https://user-images.githubusercontent.com/93210648/154726880-3c178ac3-6fb8-493f-828c-09a3da544a99.png)
+
+23 Para el circuito de la figura 15-86, determine la impedancia expresada en forma rectangular para cada una de las siguientes frecuencias:
+(a) 100 Hz (b) 500 Hz (c) 1 kHz (d) 2.5 kHz
+
+![image](https://user-images.githubusercontent.com/93210648/154726972-c752f583-d019-4e9c-beb3-9472b460f804.png)
+
+25. Determine los valores de R y XC en un circuito RC en serie para los siguientes valores de impedancia total:
+A) Z = 33Ω -j50Ω B ) Z=300<-25°Ω C) Z=1.8<-67.2° KΩ D) Z=789<-45°Ω
+
+![image](https://user-images.githubusercontent.com/93210648/154727029-2fcd9d86-11ed-4372-9fd9-5bc0a47a8c15.png)
+
+27 Calcule la corriente total en cada circuito de la figura 15-85 y exprésela en forma polar.
+
+![image](https://user-images.githubusercontent.com/93210648/154727072-0159294e-1c63-41c0-8fbb-907dfbc0bf29.png)
+
+29 Inductancias de 8, 12, y 1.2 H están conectadas en un circuito. Si LT = 6H, ¿Cómo están conectados los inductores?
+
+![image](https://user-images.githubusercontent.com/93210648/154727465-0a83bfc4-f843-4447-ba03-b6ba6e329bb1.png)
+
+31 Para el circuito de la figura 15-88, determine lo siguiente en forma polar:
+
+![image](https://user-images.githubusercontent.com/93210648/154727549-fc8b535b-556f-4327-a6ed-022ead41882e.png)
+
+33 Determine el o los elementos dispuestos en serie que deben ser instalados en el bloque de la figura 15-90 para satisfacer los siguientes requerimientos: P real = 400 W y un factor de potencia de adelanto (I tot aparece adelantada con respecto a Vs).
+
+![image](https://user-images.githubusercontent.com/93210648/154727656-0d919588-2ba0-4e8e-a810-bbfaf40d3251.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154727686-4931c12d-2b2c-4b38-bb9f-54417f22a840.png)
+
+35 El circuito de retraso de la figura 15-91 también actúa como filtro pasa bajas. Trace una curva de respuesta para este circuito marcando el voltaje de salida contra la frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz.
+
+![image](https://user-images.githubusercontent.com/93210648/154727760-7f5b885e-c237-412a-bc1d-8500ace8c2d9.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154727784-d84d0e85-fc5b-4d10-8f52-f5833845c38d.png)
+
+37 Trace la curva de respuesta a la frecuencia de amplitud de salida para el circuito de adelanto de la figura 15-92 con un intervalo de frecuencia de 0 Hz a 10 kHz en incrementos de 1 kHz.
+
+![image](https://user-images.githubusercontent.com/93210648/154727962-802ff523-fe12-4e9f-9a38-8ede5dad5f2e.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154727987-8a26c08d-0aca-4521-8f86-514021e8b7fb.png)
+
+
+
 SECCIÓN 15–5 Impedancia y admitancia de circuitos RC en paralelo
 
 41. Determine la magnitud de la impedancia y el ángulo de fase en la figura 15-94.
@@ -402,5 +558,49 @@ SECCIÓN 16–3 Análisis de circuitos RL en serie
 
 ![image](https://user-images.githubusercontent.com/93210648/154725855-074b7a5b-d400-4a9c-8ae2-0d619aa65b83.png)
 
+
+11 Calcule la corriente total en cada circuito de la figura 16-55 y exprésela en forma polar.
+
+![image](https://user-images.githubusercontent.com/93210648/154728177-12904822-14c0-45d8-a016-50aefa9e7b84.png)
+
+13 Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye u?
+
+![image](https://user-images.githubusercontent.com/93210648/154728254-bf10c954-7921-4064-b54c-2daaa3497c40.png)
+
+15 Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias:
+
+(a) 60 Hz (b) 200 Hz (c) 500 Hz (d) 1 kHz
+
+![image](https://user-images.githubusercontent.com/93210648/154728405-b29db2f0-2207-408e-87c2-2473a32adf92.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154728453-ad584b27-aa15-48df-9946-a6a42432069e.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154728474-2c165357-36e5-478e-b183-da9f8e1d8a1e.png)
+
+17 Para el circuito de retraso de la figura 16-61, determine el retraso de fase del voltaje de salida con respecto a la entrada a las siguientes frecuencias:
+
+(a) 1 Hz (b) 100 Hz (c) 1 kHz (d) 10 kHz
+
+
+![image](https://user-images.githubusercontent.com/93210648/154728533-b58a2fb5-2c63-46c1-8063-ef917af5550d.png)
+
+
+
+4 Video:
+
+https://youtu.be/cHcOdBwvyS0
+
+5 Conclusiones:
+• Con la resolución de los ejercicios del capítulo 15 se calculó el voltaje sinusoidal instantáneo, valores promedio, valores efectivos en cualquier instante de tiempo. Se identificó la polaridad del voltaje y las convenciones de dirección de la corriente que se usan para corriente alterna al igual que su forma de onda para voltaje y corriente.
+
+• Al haber resuelto los ejercicios observamos la importancia que tienen los números complejos en corriente alterna y lo necesario que es poder transformarlos de varias formas según se requiera.
+
+• Observamos que el análisis de circuitos de corriente alterna en el dominio del tiempo puede volverse un poco complicado sin el uso del fasor ya que con este podemos analizarlo en el dominio de los fasores.
+
+• También aprendimos la importancia que tiene la Impedancia en los circuitos de corriente alterna R, L y C para poder determinar valores de corriente y voltaje
+
+6 Bibliografia:
+
+F. (2021). Principles Of Electric Circuits, 8Ed. Pearson.
 
 
