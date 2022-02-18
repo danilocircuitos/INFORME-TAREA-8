@@ -584,6 +584,24 @@ SECCIÓN 16–3 Análisis de circuitos RL en serie
 
 ![image](https://user-images.githubusercontent.com/93210648/154728533-b58a2fb5-2c63-46c1-8063-ef917af5550d.png)
 
+![image](https://user-images.githubusercontent.com/93210648/154728972-21cf9be8-8a05-4545-aca2-f9a9a8fa8471.png)
+
+![image](https://user-images.githubusercontent.com/93210648/154729037-e37ab49c-1540-490e-9874-a794695f604d.png)
+
+19 ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?
+
+![image](https://user-images.githubusercontent.com/93210648/154729094-79c065bd-f3aa-4691-a115-4082eab1e258.png)
+
+21 ¿A qué frecuencia XL es igual a R en la figura 16-63?
+
+![image](https://user-images.githubusercontent.com/93210648/154729152-2694d87e-38e6-4958-9545-ec92b2dd9646.png)
+
+23 Determine las siguientes cantidades en la figura 16-65:
+
+![image](https://user-images.githubusercontent.com/93210648/154729205-822bb0bf-360a-4b29-b84f-bca3e004a93b.png)
+
+
+
 
 
 4 Video:
