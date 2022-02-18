@@ -600,6 +600,17 @@ SECCIÓN 16–3 Análisis de circuitos RL en serie
 
 ![image](https://user-images.githubusercontent.com/93210648/154729205-822bb0bf-360a-4b29-b84f-bca3e004a93b.png)
 
+25 Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie.
+
+![image](https://user-images.githubusercontent.com/93210648/154729371-67c099ec-1ae3-43bf-92bf-ac5dbc00cc8a.png)
+
+27 Determine los voltajes en forma polar a través de cada uno de los elementos de la figura 16-68. Trace el diagrama fasorial de voltaje.
+
+![image](https://user-images.githubusercontent.com/93210648/154729418-66a809bb-341e-413e-8fc3-5203347d6415.png)
+
+
+
+
 
 
 
